@@ -1,0 +1,9 @@
+allowBuilds:
+  sharp: true
+  unrs-resolver: true
+  core-js: true
+  msw: false
+onlyBuiltDependencies:
+  - sharp
+  - unrs-resolver
+  - core-js
