@@ -145,6 +145,20 @@ The DPDP Rules 2025 are being notified in stages. This tool reflects the DPDP Ac
 
 ---
 
+## Companion Tool
+
+This project is part of a GRC portfolio. See also:
+
+**[ISO 27001 Self-Check](https://github.com/sahilsinghi/iso27001-compliance-tracker)** — ISO/IEC 27001:2022 Annex A compliance tracker across all 93 controls · [Live app](https://iso27001-compliance-tracker.vercel.app)
+
+Several ISO 27001 controls map directly to DPDP obligations:
+- A.8.10 Information deletion ↔ DPDP right to erasure (Section 12)
+- A.5.34 Privacy and PII protection ↔ DPDP Data Fiduciary obligations (Section 8)
+- A.5.33 Records protection ↔ DPDP data retention requirements
+- A.5.19 Supplier security ↔ DPDP Data Processor obligations (Section 8(2))
+
+---
+
 ## Disclaimer
 
 This tool is a self-assessment aid and does not constitute legal advice. It is not a substitute for a professional legal audit or advice of qualified privacy counsel. Always consult a qualified privacy lawyer before making binding compliance decisions. This tool is not affiliated with, endorsed by, or approved by MeitY, the Data Protection Board of India, or any government body.
