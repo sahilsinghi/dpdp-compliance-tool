@@ -2,11 +2,22 @@
 
 **Live: https://dpdp-compliance-tool.vercel.app**
 
+**Quality:** Lighthouse Performance 97 · Accessibility 96 · Best Practices 100 · SEO 100
+
 **India's Digital Personal Data Protection Act 2023 — Free Compliance Self-Assessment Tool**
 
 An interactive Next.js web application that guides organisations through a structured self-assessment of all 11 substantive obligation areas of the DPDP Act 2023. Produces a weighted compliance score, per-section maturity ratings, a top-10 prioritised gap remediation roadmap, and a downloadable PDF executive report — entirely client-side, with no data leaving the browser.
 
 Built by [Sahil Singhi](https://github.com/sahilsinghi).
+
+---
+
+## Screenshots
+
+![Landing page](public/screenshots/landing.png)
+![Multi-step questionnaire mid-assessment](public/screenshots/questionnaire.png)
+![Compliance dashboard with radar chart](public/screenshots/results-dashboard.png)
+![Generated PDF executive report](public/screenshots/pdf-report-preview.png)
 
 ---
 

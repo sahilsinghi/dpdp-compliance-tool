@@ -19,11 +19,13 @@ export const metadata: Metadata = {
       "Free self-assessment tool for India's Digital Personal Data Protection Act 2023. 66 questions, 11 obligation areas, privacy-first architecture.",
     type: "website",
     locale: "en_IN",
+    images: [{ url: "/og-image.png", width: 1200, height: 630, alt: "DPDP Self-Check compliance tool" }],
   },
   twitter: {
     card: "summary_large_image",
     title: "DPDP Self-Check",
     description: "Free DPDP Act 2023 compliance self-assessment tool for Indian organisations.",
+    images: ["/og-image.png"],
   },
   robots: { index: true, follow: true },
 }
